@@ -252,10 +252,11 @@ button:hover{
         font-weight: 700;
         margin-right:90px;
     }
-      .logo{
-        font-size: 20px;
-      }
-    
+    .home{
+        background: url(./Stock\ Photos\ and\ Artwork\ \(4k\)\ -\ Adobe\ Stock\ \(110125189251\).jpeg);
+        background-size: cover;
+        background-position: bottom;
+    }
 }
 
 
